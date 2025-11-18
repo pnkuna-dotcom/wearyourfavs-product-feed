@@ -1,0 +1,114 @@
+{
+  "store": {
+    "name": "WearYourFavs",
+    "currency": "ZAR",
+    "category": "Anime Jewelry",
+    "description": "Anime-inspired necklaces featuring iconic characters and symbols from top anime series."
+  },
+  "products": [
+    {
+      "id": "WYF-001",
+      "name": "Luffy Necklace",
+      "anime": "One Piece",
+      "description": "A necklace inspired by Monkey D. Luffy from One Piece, featuring his iconic straw-hat pirate symbolism.",
+      "price": 199,
+      "currency": "ZAR",
+      "category": "Necklace",
+      "image": "https://yourdomain.com/images/luffy.jpg",
+      "in_stock": true,
+      "inventory": 20,
+      "url": "https://yourdomain.com/products/luffy-necklace"
+    },
+    {
+      "id": "WYF-002",
+      "name": "Zoro Necklace",
+      "anime": "One Piece",
+      "description": "A necklace inspired by Roronoa Zoro, styled with elements referencing his triple-sword combat.",
+      "price": 199,
+      "currency": "ZAR",
+      "category": "Necklace",
+      "image": "https://yourdomain.com/images/zoro.jpg",
+      "in_stock": true,
+      "inventory": 18,
+      "url": "https://yourdomain.com/products/zoro-necklace"
+    },
+    {
+      "id": "WYF-003",
+      "name": "Chopper Necklace",
+      "anime": "One Piece",
+      "description": "A cute necklace inspired by Tony Tony Chopper, capturing his adorable style and iconic hat.",
+      "price": 169,
+      "currency": "ZAR",
+      "category": "Necklace",
+      "image": "https://yourdomain.com/images/chopper.jpg",
+      "in_stock": true,
+      "inventory": 22,
+      "url": "https://yourdomain.com/products/chopper-necklace"
+    },
+    {
+      "id": "WYF-004",
+      "name": "Naruto Necklace",
+      "anime": "Naruto",
+      "description": "A Naruto-inspired necklace featuring a shinobi-themed symbol representing the Hidden Leaf Village.",
+      "price": 189,
+      "currency": "ZAR",
+      "category": "Necklace",
+      "image": "https://yourdomain.com/images/naruto.jpg",
+      "in_stock": true,
+      "inventory": 25,
+      "url": "https://yourdomain.com/products/naruto-necklace"
+    },
+    {
+      "id": "WYF-005",
+      "name": "Four Leaf Clover Necklace",
+      "anime": "Black Clover",
+      "description": "A magical four-leaf clover necklace inspired by Black Clover, symbolising luck and the power of mana.",
+      "price": 149,
+      "currency": "ZAR",
+      "category": "Necklace",
+      "image": "https://yourdomain.com/images/blackclover.jpg",
+      "in_stock": true,
+      "inventory": 30,
+      "url": "https://yourdomain.com/products/blackclover-necklace"
+    },
+    {
+      "id": "WYF-006",
+      "name": "Kaneki Ken Necklace",
+      "anime": "Tokyo Ghoul",
+      "description": "A necklace inspired by Kaneki Ken, featuring motifs from his ghoul mask and dark transformation.",
+      "price": 199,
+      "currency": "ZAR",
+      "category": "Necklace",
+      "image": "https://yourdomain.com/images/kaneki.jpg",
+      "in_stock": true,
+      "inventory": 16,
+      "url": "https://yourdomain.com/products/kaneki-necklace"
+    },
+    {
+      "id": "WYF-007",
+      "name": "Gojo Necklace",
+      "anime": "Jujutsu Kaisen",
+      "description": "A necklace inspired by Satoru Gojo, symbolising his signature blindfold and limitless abilities.",
+      "price": 229,
+      "currency": "ZAR",
+      "category": "Necklace",
+      "image": "https://yourdomain.com/images/gojo.jpg",
+      "in_stock": true,
+      "inventory": 15,
+      "url": "https://yourdomain.com/products/gojo-necklace"
+    },
+    {
+      "id": "WYF-008",
+      "name": "Guts Berserk Sword Necklace",
+      "anime": "Berserk",
+      "description": "A necklace featuring the iconic Dragon Slayer sword carried by Guts from Berserk.",
+      "price": 249,
+      "currency": "ZAR",
+      "category": "Necklace",
+      "image": "https://yourdomain.com/images/guts.jpg",
+      "in_stock": true,
+      "inventory": 12,
+      "url": "https://yourdomain.com/products/guts-necklace"
+    }
+  ]
+}
